@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseUrl</key>
+	<string>http://72.52.132.61/~travelse/travelSense/</string>
+	<key>loginWebService</key>
+	<dict>
+		<key>url</key>
+		<string>login.php</string>
+		<key>method</key>
+		<string>.POST</string>
+		<key>parameters</key>
+		<dict>
+			<key>email</key>
+			<string>qqq</string>
+			<key>password</key>
+			<string>000</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

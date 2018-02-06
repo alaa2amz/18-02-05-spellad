@@ -1,0 +1,6 @@
+framework module Pods_18_02_05_spellad {
+  umbrella header "Pods-18-02-05 spellad-umbrella.h"
+
+  export *
+  module * { export * }
+}

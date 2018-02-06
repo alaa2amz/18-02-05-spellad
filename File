@@ -1,0 +1,12 @@
+
+static let serverURL = "http://72.52.132.61/~travelse/travelSense/"
+static let loginWebService = "login.php"
+static let registerWebService = "register.php"
+static let addTripWebService = "addTrip.php"
+static let getTrips = "getTrips.php"
+static let getFlights = "getFlights.php"
+static let scanPDF = "scanPdf.php"
+
+Login{email,password,device_token}
+SignUp{fullName,email,phone,password,imageName}
+
